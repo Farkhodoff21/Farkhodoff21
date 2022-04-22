@@ -45,4 +45,4 @@
   </p>
 </div>
 
-![Snake animation](https://github.com/xiwang-00Farkhodoff21/xiwang-00/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xiwang-00/xiwang-00/blob/output/github-contribution-grid-snake.svg)
