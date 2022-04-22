@@ -9,7 +9,7 @@
 
 
 ## 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Rashidov01/Rashidov01/main/gif-11.gif" width="350" height="250"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" height="350"/>
 
 **Talking about Personal Stuffs:**
 
