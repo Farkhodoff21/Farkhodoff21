@@ -9,7 +9,7 @@
 
 
 ## 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" height="350"/>
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" height="300"/>
 
 **Talking about Personal Stuffs:**
 
