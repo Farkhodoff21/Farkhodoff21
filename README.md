@@ -1,5 +1,5 @@
 # Farkhodoff_me
-### Hi there, I'm <a href="https://t.me/Davay1Uje" target="_blank">Farkhodoff</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="15px">
+### Hi there, I'm <a href="https://t.me/Davay1Uje" target="_blank">Farkhodoff</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="20px">
 
 ### How to reach me: <a href="farkhodoffcodes@gmail.com">farkhodoffcodes@gmail.com</a>
 
