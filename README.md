@@ -25,10 +25,7 @@
 ![image](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
-
 <br>
-<br>
-
 🖍 Design 🔝:
 <br>
 <br>
@@ -50,7 +47,6 @@
 ![image](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
 <br>
-<br>
 
 ### 🚀 Frameworks & Library 🔝:
 ![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
@@ -67,19 +63,13 @@
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 <br>
-<br>
-
 ⚡ Database 🔝:
 <br>
 <br>
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br>
-<br>
-
 ### 🤜 Games 🔝
 ![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 ![image](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
@@ -89,8 +79,6 @@
 ![image](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)
 ##
 <br>
-<br>
-
 
 
 📈 **My GitHub Stats:"**
