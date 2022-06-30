@@ -9,7 +9,7 @@
 
 
 ## 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" height="300"/>
+<img align="right" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/001/946/373/155.gif" width="420" height="300"/>
 
 **Talking about Personal Stuffs:**
 
