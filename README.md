@@ -93,4 +93,4 @@
   </p>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.sv](https://github.com/Farkhodoff19/github-statistics/blob/master/farkhodoff.svg)g)
