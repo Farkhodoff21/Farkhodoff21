@@ -93,4 +93,4 @@
   </p>
 </div>
 
-![Snake animation]([https://github.com/Farkhodoff19/github-statistics/blob/master/farkhodoff.svg])
+![Snake animation]([https://raw.githubusercontent.com/Farkhodoff19/github-statistics/170eb1bdeb0bad714ae00ca3ff6b9802e11e1def/farkhodoff.svg?token=AYIGDD4RT6AGPYZAKIBCWWDEH4HB2])
