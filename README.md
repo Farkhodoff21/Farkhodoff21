@@ -11,7 +11,7 @@
 
 ## 
 <!-- <img align="right" alt="GIF" src="https://media4.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif" width="450" height="350"/> -->
-<img align="right" alt="GIF" src="https://https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450" height="350"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450" height="350"/>
 
 **Talking about Personal Stuffs:**
 
